@@ -115,7 +115,7 @@ nav {
 }
 
 .nav__link--anchor-primary {
-  background-color: #6030b1;
+  background-color: #3050b1;
   padding: 8px 20px;
   border-radius: 50px;
   color: white;
@@ -128,7 +128,7 @@ nav {
 
 .personal__logo {
   font-size: 24px;
-  color: #6030b1;
+  color: #3050b1;
   margin: 0 12px;
   font-weight: bold
 }
@@ -156,8 +156,8 @@ nav {
 }
 
 .about-me__picture--mask {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   overflow: hidden;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.16);
